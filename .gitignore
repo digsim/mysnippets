@@ -1,0 +1,14 @@
+authors.txt
+doc/gh-pages
+doc/*.html
+doc/html-revision
+doc/
+pkg/
+extras/imported/**
+!extras/imported/*/.yas-setup.el
+.yas-compiled-snippets.el
+*.elc
+ert-x.*
+ert.*
+*.backup.*
+*.yas-compiled-snippets.el

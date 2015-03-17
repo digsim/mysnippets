@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor : Andreas Ruppen
+# key: wot
+# group: acronyms
+# name : \acr{WoT}
+# --
+\acr{WoT} $0
